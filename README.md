@@ -1,7 +1,8 @@
 # ToDoAPP
 
 * clone this repo
-* run commands to open venv:
+* make sure you have python3 installed
+* run commands if you want to open venv:
     * windows: 
         python -m venv venv
         venv\Scripts\activate
